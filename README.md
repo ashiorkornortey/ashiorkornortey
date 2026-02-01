@@ -5,7 +5,7 @@
 />
 
 ### Hi there, I am Naa Ashiorkor Nortey 👋
-- I have had the opportunity to explore different areas of technology, from software engineering to mobile app development to User Interface and User Experience Design to IT consulting to data science to business analytics, the list is endless(exaggeration intended).
+- I have had the opportunity to explore different areas of technology, from software engineering to mobile app development to User Interface and User Experience Design to IT consulting to data science to business analytics.
 - Currently, I am focused on data science with exploration of data engineering and software engineering.
 - I am passionate about applying my skills to every area to make impact.
 - I love solving problems with any element in technology I can get hold of, such as data. Trust me to mine treasure out of the messiest, unstructured data on the planet.
