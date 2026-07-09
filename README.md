@@ -5,12 +5,13 @@
 />
 
 ### Hi there, I am Naa Ashiorkor Nortey 👋
-- I have had the opportunity to explore different areas of technology, from software engineering to mobile app development to User Interface and User Experience Design to IT consulting to data science to business analytics.
-- Currently, I am focused on data science with exploration of data engineering and software engineering.
-- I am passionate about applying my skills to every area to make impact.
-- I love solving problems with any element in technology I can get hold of, such as data. Trust me to mine treasure out of the messiest, unstructured data on the planet.
-- I am currently building PyLadies Tampere to empower women to thrive and lead in the Python community and technology at large. 
-- Ask me about data science, volunteering, hackathons, mentorship, open source and tech community building.
+
+- I am a data scientist and researcher passionate about building AI-powered solutions that solve real-world problems and create meaningful impact.
+- My work spans machine learning, data science, data engineering, and software engineering, with a growing focus on production AI systems and developer tools.
+- I enjoy transforming complex, messy data into actionable insights and building intelligent systems that people can trust and use.
+- Beyond building technology, I share knowledge through technical writing, conference talks, mentorship, and community leadership.
+- I am the founder and organizer of PyLadies Tampere, where I help empower women to learn, grow, and lead in the Python and technology communities.
+- Ask me about artificial intelligence, machine learning, data science, data engineering, Python, open source, technical writing, volunteering, hackathons, mentorship, and tech community building.
 
 
 <!-- ## 🔭 I’m currently working on 
@@ -21,6 +22,28 @@ The Kids' Speech project is under the Future Experts Program by Demola and the C
 
 <!--## 🌱 I’m currently reading
 - The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months by Brian P. Moran and Michael Lennington-->
+
+## ✍️ Technical Content Creation
+
+I enjoy creating technical content that helps developers build reliable AI applications and deepen their understanding of AI engineering, machine learning, and software development.
+
+### 📰 Published
+
+**Guest Author – JetBrains PyCharm Blog**
+
+**LLM Evaluation and AI Observability for Agent Monitoring**
+
+A practical guide to evaluating, debugging, and monitoring LLM-powered AI agents in production. The article covers LLM evaluation, AI observability, RAG evaluation, tracing, groundedness, and production best practices.
+
+🔗 https://blog.jetbrains.com/pycharm/2026/05/llm-evaluation-and-ai-observability-for-agent-monitoring/
+
+### 🚧 Coming Soon
+
+**PyTorch Tutorial for Deep Learning**
+
+A hands-on tutorial covering neural networks, model training, debugging, evaluation, and deep learning best practices using PyTorch.
+
+---
 
 ## Awards & Recognitions
 
@@ -97,16 +120,36 @@ Contributor and community volunteer at EuroPython.
 PyLadies Conference (PyLadiesCon) is the third PyLadies conference held– an exciting online and FREE event dedicated to empowerment, learning, and diversity within the Python community
 https://2025.conference.pyladies.com/en/#organization
 
-## 📫 Let's connect: 
-[LinkedIn](https://www.linkedin.com/in/naa-ashiorkor-nortey-408240120/)
-[Twitter](https://twitter.com/N_Ashiorkor)
-[Instagram](https://www.instagram.com/n_ashiorkor_n)
+## 📫 Let's connect
 
-![Top Langs](https://readme-stats.vercel.app/api/top-langs/?username=7ashiorkor7&layout=compact)
+<a href="https://www.linkedin.com/in/naa-ashiorkor-nortey-408240120/">
+  <img src="https://img.shields.io/badge/LinkedIn-Naa%20Ashiorkor%20Nortey-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
-<h3>Naa Ashiorkor Nortey's GitHub Stats</h3>
-<img src="https://readme-stats.vercel.app/api?username=7ashiorkor7&show_icons=true&theme=gruvbox" />
+<!--
+<a href="https://twitter.com/N_Ashiorkor">
+  <img src="https://img.shields.io/badge/Twitter-N_Ashiorkor-1DA1F2?style=for-the-badge&logo=twitter" />
+</a>
 
+<a href="https://www.instagram.com/n_ashiorkor_n">
+  <img src="https://img.shields.io/badge/Instagram-n_ashiorkor_n-E4405F?style=for-the-badge&logo=instagram" />
+</a>
+-->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashiorkornortey&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashiorkornortey&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashiorkornortey&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashiorkornortey&theme=github-dark" />
+</p>
 
 <!--
 <h2> 🚀 &nbsp;Some Tools and Programming Languages I Have Used and Learned</h2>
